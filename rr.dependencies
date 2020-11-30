@@ -4,4 +4,10 @@
     "target_path": "kernel/oneplus/msm8998",
     "branch": "X-alt"
   },
+  {
+    "repository": "kdrag0n/proton-clang",
+    "target_path": "prebuilts/clang/host/linux-x86/clang-proton",
+    "branch": "master",
+    "remote": "github"
+  }
 }
