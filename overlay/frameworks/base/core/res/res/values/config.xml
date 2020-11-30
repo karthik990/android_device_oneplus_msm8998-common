@@ -639,4 +639,7 @@
 
     <!-- Whether device has Dash charging support -->
     <bool name="config_hasDashCharger">true</bool>
+
+    <!-- If Smart charging supported by kernel and device sepolicy -->
+    <bool name="config_smartChargingAvailable">true</bool>
 </resources>
