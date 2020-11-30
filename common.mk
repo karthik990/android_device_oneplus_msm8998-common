@@ -392,6 +392,10 @@ PRODUCT_PACKAGES += \
     libxml2 \
     libprotobuf-cpp-full
 
+
+# RR Wallpapers
+BUILD_RR_WALLPAPERS:= true
+
 # IMS
 PRODUCT_PACKAGES += \
     ims-ext-common \
