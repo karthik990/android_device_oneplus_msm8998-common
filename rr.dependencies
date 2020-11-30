@@ -1,0 +1,7 @@
+[
+  {
+    "repository":  "lazy_kernel_op5-t",
+    "target_path": "kernel/oneplus/msm8998",
+    "branch": "X-alt"
+  },
+}
