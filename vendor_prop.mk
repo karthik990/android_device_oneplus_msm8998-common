@@ -419,4 +419,5 @@ PRODUCT_PROPERTY_OVERRIDES += \
 
 # Zygote preforking
 PRODUCT_PROPERTY_OVERRIDES += \
-    persist.device_config.runtime_native.usap_pool_enabled=true
+    persist.device_config.runtime_native.usap_pool_enabled=true \
+    persist.sys.fflag.override.settings_network_and_internet_v2=true
